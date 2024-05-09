@@ -28,7 +28,7 @@
 <br/>
 <h3>NOVAS METAS</h2>
 <ul>
-  
+  - Autenticação dos endpoints com JWT
   - Migrar para um banco de dados mais robusto
   - Cadastro de usuário
   - Criar pedidos referente a cada usuário
